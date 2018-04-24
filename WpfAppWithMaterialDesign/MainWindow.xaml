@@ -13,7 +13,7 @@
          TextOptions.TextRenderingMode="Auto"
          Background="{DynamicResource MaterialDesignPaper}"
          FontFamily="{DynamicResource MaterialDesignFont}"
-        Title="MainWindow" Height="470" Width="425" WindowStyle="None" AllowsTransparency="True" WindowStartupLocation="CenterScreen">
+        Title="MainWindow" Height="470" Width="400" WindowStyle="None" AllowsTransparency="True" WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="30"/>
