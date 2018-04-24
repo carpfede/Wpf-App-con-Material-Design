@@ -33,7 +33,7 @@
         </Border>
         <Grid Grid.Row="1">
             <materialDesign:ColorZone Mode="PrimaryMid">
-                <TextBlock Text="Log in" FontSize="35" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="30 10 0 10"/>
+                <TextBlock Text="Iniciar Sesion" FontSize="35" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="30 10 0 10"/>
             </materialDesign:ColorZone>
         </Grid>
         <Grid Grid.Row="2">
